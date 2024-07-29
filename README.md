@@ -42,14 +42,7 @@ The script performs a grid search to find the optimal values of $E$, $D_0$, and 
 
 - REE ionic radii: Shannon and Prewitt
 - Partition coefficients: Hauri et al. (1994)
-
-## Usage
-
-1. Ensure you have MATLAB installed on your system.
-2. Clone this repository or download the script.
-3. Open the script in MATLAB.
-4. Run the script to perform the grid search and generate the plots.
-
+- 
 ## Outputs
 
 1. Figure 1: Chi-squared values for iterations
